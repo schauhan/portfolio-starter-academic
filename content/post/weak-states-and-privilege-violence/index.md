@@ -6,7 +6,8 @@ summary: How corrupt politicians and elites make nation states weak and
   normalize violence in the society.
 draft: false
 featured: false
-tags:
+tags: []
+categories:
   - geopolitics
 image:
   filename: featured
