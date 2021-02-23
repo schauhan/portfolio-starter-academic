@@ -2,7 +2,7 @@
 title: Weak States and Privilege Violence
 subtitle: ""
 date: 2021-02-23T05:12:52.548Z
-draft: true
+draft: false
 featured: false
 image:
   filename: featured
