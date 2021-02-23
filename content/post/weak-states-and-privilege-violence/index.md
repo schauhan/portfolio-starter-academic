@@ -1,6 +1,7 @@
 ---
 title: Weak States and Privilege Violence
-subtitle: ""
+subtitle: How corrupt politicians and elites could make nation states weak, and
+  normalize violence in the country.
 date: 2021-02-23T05:12:52.548Z
 draft: false
 featured: false
@@ -9,6 +10,10 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+## Introduction
+
+A few months ago I read Savage Order by Rachel Kleinfeld. The book tries to answer the questions: why are some nations more violent than others, how did they get there, and what can we do to reduce violence. Ms Kleinfeld presents multiple case studies from across the world - Colombia, Italy, Georgia, India - how these countries found themselves in violent conflicts and how they came out of it. The following blog is a part of series where I talk about certain concepts from this book and others, with some insights from the Indian subcontinent.
+
 ## The Concept Of A Weak State
 
 A weak state is a country which is unable to provide security and essential services to its citizens. Here I am more concerned with the security aspect. Weak states are characterized by government institutions - executive, military, judiciary, police - that have become progressively weak, and can no longer function correctly. States often become weak due to internal conflicts, war, or corruption by the ruling class. A weak state cannot guarantee the safety of its citizens - it lacks strong military and police capabilities to protects itself or its citizens.
