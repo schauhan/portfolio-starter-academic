@@ -9,7 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-## The concept of a weak state
+## The Concept Of A Weak State
 
 A weak state is a country which is unable to provide security and essential services to its citizens. Here I am more concerned with the security aspect. Weak states are characterized by government institutions - executive, military, judiciary, police - that have become progressively weak, and can no longer function correctly. States often become weak due to internal conflicts, war, or corruption by the ruling class. A weak state cannot guarantee the safety of its citizens - it lacks strong military and police capabilities to protects itself or its citizens.
 
