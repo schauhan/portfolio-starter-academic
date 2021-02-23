@@ -10,11 +10,11 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-## Introduction
+# Introduction
 
 A few months ago I read Savage Order by Rachel Kleinfeld. The book tries to answer the questions: why are some nations more violent than others, how did they get there, and what can we do to reduce violence. Ms Kleinfeld presents multiple case studies from across the world - Colombia, Italy, Georgia, India - how these countries found themselves in violent conflicts and how they came out of it. The following blog is a part of series where I talk about certain concepts from this book and others, with some insights from the Indian subcontinent.
 
-## The Concept Of A Weak State
+# The Concept Of A Weak State
 
 A weak state is a country which is unable to provide security and essential services to its citizens. Here I am more concerned with the security aspect. Weak states are characterized by government institutions - executive, military, judiciary, police - that have become progressively weak, and can no longer function correctly. States often become weak due to internal conflicts, war, or corruption by the ruling class. A weak state cannot guarantee the safety of its citizens - it lacks strong military and police capabilities to protects itself or its citizens.
 
@@ -23,13 +23,13 @@ Examples
 * **Mughal empire in India in the late 18th and early 19th centuries -** After the death of Aurangzeb in 1707 the Mughal empire began to collapse bit-by-bit. Internal conflicts and external invasions gradually made the empire inconsequential, till in in 1857 the British East India Company exiled the last king, putting an end to a dynasty which had ruled India for over 3 centuries.
 * **Current day Pakistan -** Since its inception in 1947 Pakistan has seen multiple military coups and unsuccessful coup attempts, spending almost 50% of this time under a military regime. The country has been plagued with violence and terrorism, and ranks consistently low on multiple social and economic indicators.
 
-### Why Are States Weak
+## Why Are States Weak
 
 Sometimes armed conflicts or war could deplete a states resources, rendering it too weak to govern effectively. A few nations emerged from WWII as weaker than before the war.
 
 Another possible scenario is when a state is born weak - a great number of [nations achieved independence after WWII](https://en.wikipedia.org/wiki/Decolonization), and began the task of nation building by creating and strengthening their governing institutions. In some cases, as with Pakistan, the institutions were not strong enough to hold the country intact. Today Pakistan has a few tribal areas where writ of the government doesn't work.
 
-## Privilege Violence
+# Privilege Violence
 
 In her book **A Savage Order**, **Rachel Kleinfeld** talks about weak states where the ruling class deliberately keeps the state weak so they could control the state and benefit from it personally.
 
@@ -48,7 +48,7 @@ In 2016, Pakistani armed forces [reported](https://qz.com/india/1134516/inside-
 
 Systematic corruption, nepotism, and favoritism gradually erode the public's trust in the government institutions.
 
-### How Does Privilege Violence Affect Societies?
+## How Does Privilege Violence Affect Societies?
 
 Rachel Kleinfeld has written about how privilege violence spreads from the political and economic elites to the masses. While these elites deliberately weaken and corrupt the states security institutions, they still need to protect themselves from, or compete with, other elites. For this they hire private militias and violent groups to maintain their power. At the same time, the citizens realize that the weak state cannot provide adequate protection and turn to criminals or vigilantes for justice.
 
