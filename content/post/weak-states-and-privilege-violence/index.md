@@ -11,35 +11,33 @@ image:
 ---
 ## The concept of a weak state
 
-* A weak state is a country which is unable to provide security and essential services to its citizens. Here I am more concerned with the security aspect.
-* Weak states are characterized by government institutions - executive, military, judiciary, police - that have become progressively weak, and can no longer function correctly.
-* States often become weak due to internal conflicts, war, or corruption by the ruling class.
-* A weak state cannot guarantee the safety of their citizens - it lacks strong military and police capabilities to protects itself or its citizens.
+A weak state is a country which is unable to provide security and essential services to its citizens. Here I am more concerned with the security aspect. Weak states are characterized by government institutions - executive, military, judiciary, police - that have become progressively weak, and can no longer function correctly. States often become weak due to internal conflicts, war, or corruption by the ruling class. A weak state cannot guarantee the safety of its citizens - it lacks strong military and police capabilities to protects itself or its citizens.
 
-Some Examples
+Examples
 
 * Mughal empire in India in the late 18th and early 19th centuries. After the death of Aurangzeb in 1707 the Mughal empire began to collapse bit-by-bit. Internal conflicts and external invasions gradually made the empire inconsequential, till in in 1857 the British East India Company exiled the last king, putting an end to a dynasty which had ruled India for over 3 centuries.
 * Current day Pakistan. Since its inception in 1947 Pakistan has seen multiple military coups and unsuccessful coup attempts, spending almost 50% of this time under a military regime. The country has been plagued with violence and terrorism, and ranks consistently low on multiple social and economic indicators.
 
 ### Why Are States Weak
 
-There can be multiple reasons why a state is weak:
+Sometimes armed conflicts or war could deplete a states resources, rendering it too weak to govern effectively. A few nations emerged from WWII as weaker than before the war.
 
-* Sometimes armed conflicts or war could deplete a states resources, rendering it too weak to govern effectively. A few nations emerged from WWII as weaker than before the war.
-* Another possible scenario is when a state is born weak - a great number of [nations achieved independence after WWII](https://en.wikipedia.org/wiki/Decolonization), and began the task of nation building by creating and strengthening their governing institutions. In some cases, as with Pakistan, the institutions were not strong enough to hold the country intact. Today Pakistan has a few tribal areas where writ of the government doesn't work.
+Another possible scenario is when a state is born weak - a great number of [nations achieved independence after WWII](https://en.wikipedia.org/wiki/Decolonization), and began the task of nation building by creating and strengthening their governing institutions. In some cases, as with Pakistan, the institutions were not strong enough to hold the country intact. Today Pakistan has a few tribal areas where writ of the government doesn't work.
 
 ## Privilege Violence
 
 In her book **A Savage Order**, **Rachel Kleinfeld** talks about weak states where the ruling class deliberately keeps the state weak so they could control the state and benefit from it personally.
 
-> Privilege violence begins with an economic and political elite who run the state for their benefit. They manipulate budgets and taxes so that government resources are spent extravagantly on their neighborhoods, tribes, or racial groups, and they often benefit from the corruption... Rachel Kleinfeld, A Savage Order
+> Privilege violence begins with an economic and political elite who run the state for their benefit. They manipulate budgets and taxes so that government resources are spent extravagantly on their neighborhoods, tribes, or racial groups, and they often benefit from the corruption... \
+> Rachel Kleinfeld in *A Savage Order*
 
 We often see examples of privilege violence in developing and underdeveloped nations in Asia, Africa and Latin America, where politicians use the taxpayers money to advance their own interests.
 
 * In the Indian state of Uttar Pradesh, Mulayam Singh Yadav has gifted his ancestral village (with a population of 7200) an airport, multiple universities and a [cultural festival](https://www.firstpost.com/politics/mulayams-rs-20-cr-saifai-festival-exposes-audacity-of-political-class-1330515.html), costing the state hundreds of crores. In the neighboring state of Bihar, Lalu Yadav - another ex-Chief Minister - is embroiled in multiple corruption scams, with the most popular being the Fodder Scam worth $540M. Both these politicians have turned their states as personal fiefdoms, governing their states by proxy, and installing their family embers in their stead.
 * Pakistan presents a different scenario with a similar result. As a country which has been under military rule for almost 50% of the time since it came into existence in 1947, Pakistan suffers from privilege violence both by their political and military rulers. The military, which projects itself as the savior of Pakistan and its Islamic ideology, has been accused of bias towards the Punjabi groups, and benefiting through [systematic corruption](https://www.nytimes.com/2020/01/23/opinion/pakistan-politicians-military.html).
 
-> ... corruption and nepotism are endemic in Pakistan. The civil and military officers enjoy vast amounts of prerequisites and privileges and are not above corruption. Hussain Haqqani in Pakistan - Between Mosque and Military
+> ... corruption and nepotism are endemic in Pakistan. The civil and military officers enjoy vast amounts of prerequisites and privileges and are not above corruption. \
+> Hussain Haqqani in *Pakistan - Between Mosque and Military*
 
 In 2016, Pakistani armed forces [reported](https://qz.com/india/1134516/inside-pakistans-biggest-business-conglomerate-the-pakistani-military/) owning businesses worth over $20B. As of 2020 Pakistan ranks 7th in [Global Terrorism Index](https://www.visionofhumanity.org/wp-content/uploads/2020/11/GTI-2020-web-1.pdf).
 
@@ -53,7 +51,8 @@ The weak state military and police system, unable to keep the criminals, private
 
 <Indian political parties giving party-ticket to criminals>
 
-> What materializes is a process in which ordinary people become impulsive, quicker to anger, more ready to see violence as normal. As countries decivilize, people polarize into warring camps, dehumanize those who were once fellow citizens, and excuse previously unthinkable brutality... Once society has normalized violence, a government can no longer restore security on its own. Rachel Kleinfeld, A Savage Order
+> What materializes is a process in which ordinary people become impulsive, quicker to anger, more ready to see violence as normal. As countries decivilize, people polarize into warring camps, dehumanize those who were once fellow citizens, and excuse previously unthinkable brutality... Once society has normalized violence, a government can no longer restore security on its own. \
+> Rachel Kleinfeld in *A Savage Order*
 
 ### Caste Based Violence in Bihar, India
 
