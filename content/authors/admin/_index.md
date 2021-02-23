@@ -1,39 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Saransh Chauhan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Product Manager | Entrepreneur
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Austin, TX
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include building software products that inprove lives, and answering questions through data and research.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cloud-Native and Data Intensive Applications
+- SaaS, Fintech
+- Cybersecurity, AI/ML and Multi Lingual
+
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: MS in Computer Science
+    institution: Florida State University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Business Negotiation
+    institution: Harvard Business School Online
+    year: 2018
+  - course: Software Product Manager (Certificate)
+    institution: Product School
+    year: 2018
+  - course: Scrum Product Owner (Certificate)
+    institution: Scrum Alliance
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:chauhan.saransh@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
@@ -70,8 +74,10 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I build software products. I like using tech and data to solve people problems. To do this I work with business executives, users, and tech teams. I ask a lot of questions, and then use data to find answers. I also work on business strategy and marketing - basically anything that will make a product successful.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I've been in tech for over 12 years now. At multiple times in my career I've written code, worked on UI, analysed data, and coached scrum teams. Five years back I moved from engineering to product and loved it. Recently I co-founded a fintech company, [Algoniti](https://www.algoniti.com/). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Other things I do include *attempted* gardening, riding my motorcycle, and discussing geopolitics with friends. I also give people career advice; sometimes it actually helps.
+
+I'm originally from India and live in Austin, TX. 
