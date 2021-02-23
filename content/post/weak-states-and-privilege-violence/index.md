@@ -69,6 +69,6 @@ Caste-based violence started decreasing in Bihar in early-2000 when Nitish Kumar
 
 Similar incidents about the society being decivilized have been witnessed in Colombia, during the drug cartel wars between 1970s and 1990s; the US after the civil war; and in Italy during the Mafia wars.
 
-### Learning From The Past
+## Learning From The Past
 
 In the case of India, the recent increase in violent incidents across the country is concerning. There have been incidents where Muslims are being targeted by a violent mob, a misinformation campaign being circulated about the Rohingya refugees arriving from Myanmar, and a few others. These incidents point to a society slowly getting decivilized - people normalizing violent attacks, government losing its monopoly on violence and in some cases benefiting from it. It is important to recognize the patterns and act before the society normalizes violence - a state which is hard to roll-back.
