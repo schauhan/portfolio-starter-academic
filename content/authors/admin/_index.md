@@ -14,7 +14,7 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include building software products that inprove lives, and answering questions through data and research.
+bio:
 
 # Interests to show in About widget
 interests:
