@@ -9,6 +9,7 @@ featured: false
 tags: []
 categories:
   - geopolitics
+  - india
 image:
   filename: featured
   focal_point: Smart
