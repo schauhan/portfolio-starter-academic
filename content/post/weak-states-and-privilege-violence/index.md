@@ -20,8 +20,8 @@ A weak state is a country which is unable to provide security and essential serv
 
 Examples
 
-* Mughal empire in India in the late 18th and early 19th centuries. After the death of Aurangzeb in 1707 the Mughal empire began to collapse bit-by-bit. Internal conflicts and external invasions gradually made the empire inconsequential, till in in 1857 the British East India Company exiled the last king, putting an end to a dynasty which had ruled India for over 3 centuries.
-* Current day Pakistan. Since its inception in 1947 Pakistan has seen multiple military coups and unsuccessful coup attempts, spending almost 50% of this time under a military regime. The country has been plagued with violence and terrorism, and ranks consistently low on multiple social and economic indicators.
+* **Mughal empire in India in the late 18th and early 19th centuries -** After the death of Aurangzeb in 1707 the Mughal empire began to collapse bit-by-bit. Internal conflicts and external invasions gradually made the empire inconsequential, till in in 1857 the British East India Company exiled the last king, putting an end to a dynasty which had ruled India for over 3 centuries.
+* **Current day Pakistan -** Since its inception in 1947 Pakistan has seen multiple military coups and unsuccessful coup attempts, spending almost 50% of this time under a military regime. The country has been plagued with violence and terrorism, and ranks consistently low on multiple social and economic indicators.
 
 ### Why Are States Weak
 
