@@ -1,6 +1,6 @@
 ---
 title: Weak States and Privilege Violence
-subtitle: How corrupt politicians and elites could make nation states weak, and
+subtitle: How corrupt politicians and elites make nation states weak, and
   normalize violence in the country.
 date: 2021-02-23T05:12:52.548Z
 draft: false
