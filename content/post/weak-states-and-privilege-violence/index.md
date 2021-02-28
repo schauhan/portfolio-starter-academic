@@ -17,7 +17,7 @@ image:
 ---
 # Introduction
 
-A few months ago I read Savage Order by Rachel Kleinfeld. The book tries to answer the questions: why are some nations more violent than others, how did they get there, and what can we do to reduce violence. Ms. Kleinfeld presents multiple case studies from across the world - Colombia, Italy, Georgia, India - how these countries found themselves in violent conflicts and how they came out of it. The following blog is a part of a series where I talk about certain concepts from this book and others, with some insights from the Indian subcontinent.
+A few months ago I read [Savage Order](https://carnegieendowment.org/2018/11/06/savage-order-how-world-s-deadliest-countries-can-forge-path-to-security-pub-77045) by Rachel Kleinfeld. The book tries to answer the questions: why are some nations more violent than others, how did they get there, and what can we do to reduce violence. Ms. Kleinfeld presents multiple case studies from across the world - Colombia, Italy, Georgia, India - how these countries found themselves in violent conflicts and how they came out of it. The following blog is a part of a series where I talk about certain concepts from this book and others, with some insights from the Indian subcontinent.
 
 # The Concept Of A Weak State
 
@@ -47,7 +47,7 @@ We often see examples of privilege violence in developing and underdeveloped nat
 * Pakistan presents a different scenario with a similar result. As a country that has been under military rule for almost 50% of the time since it came into existence in 1947, Pakistan suffers from privilege violence both by its political and military rulers. The military, which projects itself as the savior of Pakistan and its Islamic ideology, has been accused of bias towards the Punjabi groups and benefiting through [systematic corruption](https://www.nytimes.com/2020/01/23/opinion/pakistan-politicians-military.html).
 
 > ... corruption and nepotism are endemic in Pakistan. The civil and military officers enjoy vast amounts of prerequisites and privileges and are not above corruption. \
-> Hussain Haqqani in *Pakistan - Between Mosque and Military*
+> *Hussain Haqqani in Pakistan - Between Mosque and Military*
 
 In 2016, Pakistani armed forces [reported](https://qz.com/india/1134516/inside-pakistans-biggest-business-conglomerate-the-pakistani-military/) owning businesses worth over $20B. As of 2020, Pakistan ranks 7th in [Global Terrorism Index](https://www.visionofhumanity.org/wp-content/uploads/2020/11/GTI-2020-web-1.pdf).
 
@@ -62,7 +62,7 @@ The weak state military and police system, unable to keep the criminals, private
 <Indian political parties giving party-ticket to criminals>
 
 > What materializes is a process in which ordinary people become impulsive, quicker to anger, more ready to see violence as normal. As countries decivilize, people polarize into warring camps, dehumanize those who were once fellow citizens, and excuse previously unthinkable brutality... Once society has normalized violence, a government can no longer restore security on its own. \
-> Rachel Kleinfeld in *A Savage Order*
+> *Rachel Kleinfeld in A Savage Order*
 
 ### Caste Based Violence in Bihar, India
 
