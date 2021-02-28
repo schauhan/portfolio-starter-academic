@@ -16,12 +16,8 @@ image:
   preview_only: false
   caption: ""
 ---
-<<<<<<< Updated upstream
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pablo_Escobar_Mug.jpg/150px-Pablo_Escobar_Mug.jpg" title="Pablo Escobar, once of the most famous drug kingpins of Colombia, was a product of a complicit and corrupt state." >}}
-=======
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pablo_Escobar_Mug.jpg/220px-Pablo_Escobar_Mug.jpg" title="Pablo Escobar, once of the most famous drug kingpins of Colombia, was a product of a complicit and corrupt state." >}}
->>>>>>> Stashed changes
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pablo_Escobar_Mug.jpg/150px-Pablo_Escobar_Mug.jpg" title="Pablo Escobar, once of the most famous drug kingpins of Colombia, was a product of a complicit and corrupt state." >}}
 
 # Introduction
 
