@@ -22,8 +22,6 @@ image:
 
 A few months ago I read [Savage Order](https://carnegieendowment.org/2018/11/06/savage-order-how-world-s-deadliest-countries-can-forge-path-to-security-pub-77045) by Rachel Kleinfeld. The book tries to answer the questions: why are some nations more violent than others, how did they get there, and what can we do to reduce violence. Ms. Kleinfeld presents multiple case studies from across the world - Colombia, Italy, Georgia, India - how these countries found themselves in violent conflicts and how they came out of it. The following blog is a part of a series where I talk about certain concepts from this book and others, with some insights from the Indian subcontinent.
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pablo_Escobar_Mug.jpg/220px-Pablo_Escobar_Mug.jpg" title="Pablo Escobar, once of the most famous drug kingpins of Colombia, was a product of a complicit and corrupt state." >}}
-
 # The Concept Of A Weak State
 
 A weak state is a country that is unable to provide security and essential services to its citizens. Here I am more concerned with the security aspect. Weak states are characterized by government institutions - executive, military, judiciary, police - that have become progressively weak, and can no longer function correctly. States often become weak due to internal conflicts, war, or corruption by the ruling class. A weak state cannot guarantee the safety of its citizens - it lacks strong military and police capabilities to protects itself or its citizens.
