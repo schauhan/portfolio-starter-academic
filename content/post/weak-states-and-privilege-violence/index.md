@@ -44,15 +44,17 @@ Another possible scenario is when a state is born weak - a great number of [nat
 **Dr. Kleinfeld** talks about states in which the ruling class deliberately keeps the state weak, so they could control the state and benefit from it personally.
 
 > Privilege violence begins with an economic and political elite who run the state for their benefit. They manipulate budgets and taxes so that government resources are spent extravagantly on their neighborhoods, tribes, or racial groups, and they often benefit from the corruption... \
-> - *Rachel Kleinfeld in* *A Savage Order*
+>
+> * *Rachel Kleinfeld in* *A Savage Order*
 
 We often see examples of privilege violence in developing and underdeveloped nations in Asia, Africa, and Latin America, where politicians use the taxpayers' money to advance their own interests.
 
-* In the Indian state of Uttar Pradesh, Mulayam Singh Yadav has gifted his ancestral village (with a population of 7200) an airport, multiple universities, and a [cultural festival](https://www.firstpost.com/politics/mulayams-rs-20-cr-saifai-festival-exposes-audacity-of-political-class-1330515.html), costing the state hundreds of crores. In the neighboring state of Bihar, Lalu Yadav - another ex-Chief Minister - is embroiled in multiple corruption scams, with the most popular being the Fodder Scam worth $540M. Both these politicians have turned their states into personal fiefdoms, governing their states by proxy, and installing their family embers in their stead.
+* In the Indian state of Uttar Pradesh, Mulayam Singh Yadav has gifted his ancestral village (with a population of 7200) an airport, multiple universities, and a [cultural festival](https://www.firstpost.com/politics/mulayams-rs-20-cr-saifai-festival-exposes-audacity-of-political-class-1330515.html), costing the state hundreds of crores. In the neighboring state of Bihar, Lalu Yadav - another ex-Chief Minister - is embroiled in multiple corruption scams, with the most popular being the Fodder Scam worth $540M. Both these politicians have turned their states into personal fiefdoms, governing their states by proxy, and installing their family members in their stead.
 * Pakistan presents a different scenario with a similar result. As a country that has been under military rule for almost 50% of the time since it came into existence in 1947, Pakistan suffers from privilege violence both by its political and military rulers. The military, which projects itself as the savior of Pakistan and its Islamic ideology, has been accused of bias towards the Punjabi groups and benefiting through [systematic corruption](https://www.nytimes.com/2020/01/23/opinion/pakistan-politicians-military.html).
 
 > ... corruption and nepotism are endemic in Pakistan. The civil and military officers enjoy vast amounts of prerequisites and privileges and are not above corruption. \
-> - *Hussain Haqqani in Pakistan - Between Mosque and Military*
+>
+> * *Hussain Haqqani in Pakistan - Between Mosque and Military*
 
 In 2016, Pakistani armed forces [reported](https://qz.com/india/1134516/inside-pakistans-biggest-business-conglomerate-the-pakistani-military/) owning businesses worth over $20B. As of 2020, Pakistan ranks 7th in [Global Terrorism Index](https://www.visionofhumanity.org/wp-content/uploads/2020/11/GTI-2020-web-1.pdf).
 
@@ -67,7 +69,8 @@ While the elites deliberately weaken and corrupt the state's security institutio
 The weak state military and police system, unable to keep the criminals, private militias, and vigilantes in check, become more brutal. Faces with a brutal and inept state on one side, and criminals on the other, the masses regard both as a threat to their security. In some cases, violence perpetrated by the state and the criminals become so widespread that it is normalized by the masses - force becomes an accepted way to solve problems. Dr. Kleinfeld describes this phase as the *decivilization of society*.
 
 > What materializes is a process in which ordinary people become impulsive, quicker to anger, more ready to see violence as normal. As countries decivilize, people polarize into warring camps, dehumanize those who were once fellow citizens, and excuse previously unthinkable brutality... Once society has normalized violence, a government can no longer restore security on its own. \
-> - *Rachel Kleinfeld in A Savage Order*
+>
+> * *Rachel Kleinfeld in A Savage Order*
 
 ### Decivilization Example: Caste Based Violence in Bihar, India
 
