@@ -72,7 +72,7 @@ The weak state military and police system, unable to keep the criminals, private
 >
 > * *Rachel Kleinfeld in A Savage Order*
 
-### Decivilization Example: Caste Based Violence in Bihar, India
+## Decivilization Example: Caste Based Violence in Bihar, India
 
 An example of a society being decivilized could be seen in Bihar, between the 1970s and early 2000s, which experiences caste-based conflicts between the private militias of the landlords and upper castes ([Ranvir Sena](https://www.satp.org/satporgtp/countries/india/terroristoutfits/Ranvir_Sena.htm) being the [most prominent among them](https://www.satp.org/satporgtp/countries/india/terroristoutfits/Private_armies.htm)) and the violent leftist groups ([MCC and others](https://www.satp.org/satporgtp/countries/india/terroristoutfits/mcc.htm)). Ranvir Sena was created by the state elites to protect themselves and advance their interests, while MCC claimed to represent the lower castes. These groups carried violent attacks and [mass killings](https://www.satp.org/satporgtp/countries/india/terroristoutfits/massacres.htm), sometimes so brutal that at times entire villages were destroyed (1997 Lakshmanpur Massacre, 58 dead; 2000 Mianpur massacre, 35 dead). [Human Rights Watch](https://www.hrw.org/reports/1999/india/India994-06.htm) published a piece about the state's response to outfits in Bihar, elaborating a series of corrupt state governments either unable to stop the violence or benefitting from it.
 
@@ -86,6 +86,6 @@ Caste-based violence started decreasing in Bihar in early-2000 when Nitish Kumar
 
 Similar incidents about the society being decivilized have been witnessed in Colombia, during the drug cartel wars between the 1970s and 1990s; the US after the civil war; and in Italy during the Mafia wars.
 
-## Learning From The Past
+# Learning From The Past
 
 In the case of India, the recent increase in violent incidents across the country is concerning. There have been incidents where Muslims are being targeted by a violent mob, a misinformation campaign being circulated about the Rohingya refugees arriving from Myanmar, and a few others. These incidents point to a society slowly getting decivilized - people normalizing violent attacks, the government losing its monopoly on violence, and in some cases benefiting from it. It is important to recognize the patterns and act before society normalizes violence - a state which is hard to roll-back.
