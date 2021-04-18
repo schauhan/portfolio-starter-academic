@@ -3,6 +3,10 @@ title: Politicians And Dirty Deals - A Road To Recivilization of Society
 date: 2021-04-18T22:06:33.434Z
 draft: false
 featured: false
+tags: []
+categories:
+  - geopolitics
+  - india
 image:
   filename: featured
   focal_point: Smart
