@@ -18,9 +18,9 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Cloud-Native, Data Intensive Applications
-  - SaaS, Fintech
-  - Cybersecurity, AI/ML, Multi Lingual
+  - Cloud-native SaaS products
+  - Data intensive apps
+  - Cybersecurity/Infosec
 
 # Education to show in About widget
 education:
@@ -31,12 +31,12 @@ education:
     - course: Business Negotiations
       institution: Harvard Business School Online
       year: 2018
-    - course: Product Manager Certificate
-      institution: Product School
-      year: 2018
-    - course: Scrum Product Owner Certificate
-      institution: Scrum Alliance
-      year: 2017
+    # - course: Product Manager Certificate
+    #   institution: Product School
+    #   year: 2018
+    # - course: Scrum Product Owner Certificate
+    #   institution: Scrum Alliance
+    #   year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -80,4 +80,4 @@ I build cloud-native and data-heavy software products for startups, enterprise, 
 
 I've been in tech for over 12 years during which I've written code, worked with engineers and CXOs, performed data analysis, and coached scrum teams. Five years back I moved from software dev to product.
 
-Recently I co-founded a fintech company, [Algoniti](https://www.algoniti.com/), building a no-code algo trading platform which lets users create their own trading strategy based on past stock-trend analysis.
+Last year I launched a no-code indicator-based algo trading platform, [Algoniti](https://www.algoniti.com/) for the Indian FinTech market.

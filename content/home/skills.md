@@ -19,15 +19,15 @@ feature:
   - description:
     icon: cubes
     icon_pack: fas
-    name: Product
+    name: Product Development
   - description:
     icon: lightbulb
     icon_pack: far
-    name: Business | Strategy
+    name: Business Strategy
   - description:
     icon: save
     icon_pack: far
-    name: Technology
+    name: Tech Leadership
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

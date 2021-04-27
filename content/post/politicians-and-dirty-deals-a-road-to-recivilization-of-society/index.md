@@ -1,6 +1,7 @@
 ---
 title: Politicians And Dirty Deals - A Road To Recivilization of Society
 date: 2021-04-18T22:06:33.434Z
+summary: Discussion on some tools an adept politician could employ to pull a state back from violence.
 draft: false
 featured: false
 tags: []
@@ -12,6 +13,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
 This is the second part of a three-part blog-series based on **A Savage Order** by **Dr. Rachel Kleinfeld**. I don't claim an original work here; most of the idea are from the book, with some my observations from the Indian subcontinent added for context.
 
 ## Background
@@ -30,7 +32,7 @@ A state suffering from corruption, privilege violence, and a decivilized society
 
 Take the case of Nitish Kumar, who became the Chief Minister of Bihar, India in 2005. For perspective, Bihar has a population greater than that of Germany, but was one of the poorest states in India. Nitish Kumar inherited a state beset by privilige violence: kidnapping was one of the "growth industries"; [shotgun weddings](https://www.indiatoday.in/india/story/shotgun-weddings-go-unabated-in-bihar-1559348-2019-07-01) were the order of the day; often times a state legislator with a criminal record used to win elections as people considered him to a strongman who could protect them from opposing factions.
 
-Nitish Kumar, when he won his first election, had around 22% of his legislators with a criminal record. Once getting into power he moved swiftly to make sure the criminal legislators stopped their illegal activities. This carrot-and-stick approach gave Nitish Kumar time to repair the broken goverment machinery. He strengthened the bureaucracy and the security forces by appointing competent people and giving them freedom to do their job. His police chief seized assets of the criminal strongment leaving them without the finances to maintain a private militia. He also implemented populist policies which were useful in the citizens affirming their trust in the goverment. Gradually Bihar staggered out of a state of *decivilization* and crime dropped.
+Nitish Kumar, when he won his first election, had around 22% of his legislators with a criminal record. Once getting into power he moved swiftly to make sure the criminal legislators stopped their illegal activities. This carrot-and-stick approach gave Nitish Kumar time to repair the broken goverment machinery. He strengthened the bureaucracy and the security forces by appointing competent people and giving them freedom to do their job. His police chief seized assets of the criminal strongment leaving them without the finances to maintain a private militia. He also implemented populist policies which were useful in the citizens affirming their trust in the goverment. Gradually Bihar staggered out of a state of _decivilization_ and crime dropped.
 
 Dr. Kleinfeld also talks about similar dirty deals the government in Colombia had to make with the FARC gurrillas, to decrease violence and get some breathing space.
 
